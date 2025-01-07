@@ -1,1 +1,0 @@
-# microsoft-developer-transactions-stored-procedures
